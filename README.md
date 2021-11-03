@@ -1,4 +1,9 @@
 # NYC-Bike-Stations
+<hr>
+Please enjoy this exploration of the New York City Citibike system! Below are just a few examples of the capability to the page. 
+
+<br>
+<br>
 
 ![image](https://user-images.githubusercontent.com/83737584/134778691-215b8f61-d786-449f-9ceb-042a91f9140b.png)
 
