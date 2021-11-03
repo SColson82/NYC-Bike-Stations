@@ -1,6 +1,6 @@
 # NYC-Bike-Stations
 <hr>
-Please enjoy this exploration of the New York City Citibike system! Below are just a few examples of the capability to the page. 
+Please enjoy this brief exploration of the New York City Citibike system! Below are just a few examples of the capability to the page. 
 
 <br>
 <br>
@@ -14,3 +14,10 @@ Please enjoy this exploration of the New York City Citibike system! Below are ju
 ![image](https://user-images.githubusercontent.com/83737584/134778759-a23ed43e-50d5-4e19-bee4-79880ba754c5.png)
 
 ![image](https://user-images.githubusercontent.com/83737584/134778772-e5be8ba7-706d-47b6-8dff-df9f557c50ca.png)
+
+<hr>
+
+Contact:
+
+* https://www.linkedin.com/in/sharon-colson-515222210/
+* sharon.colson@gmail.com
