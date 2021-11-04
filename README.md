@@ -19,5 +19,5 @@ Please enjoy this brief exploration of the New York City Citibike system! Below 
 
 Contact:
 
-* https://www.linkedin.com/in/sharon-colson-515222210/
+* https://www.linkedin.com/in/sharon-colson
 * sharon.colson@gmail.com
