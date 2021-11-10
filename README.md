@@ -1,6 +1,6 @@
 # NYC-Bike-Stations
 <hr>
-Please enjoy this brief exploration of the New York City Citibike system! Below are just a few examples of the capability to the page. 
+Please enjoy this brief exploration of the New York City Citibike system! Below are just a few examples of the capability of the page. 
 
 <br>
 <br>
